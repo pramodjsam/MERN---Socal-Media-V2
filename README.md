@@ -1,4 +1,4 @@
-# Aocial Media App V2
+# Social Media App V2
 Social media application using MERN stack and real time communication using socket.io
 
 ## Features
